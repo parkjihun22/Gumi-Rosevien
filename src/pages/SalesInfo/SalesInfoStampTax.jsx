@@ -49,7 +49,7 @@ const ComplexGuide1 = () => {
     <div className={styles.container}>
       <Helmet>
         {/* 기본 문자셋 및 모바일 최적화를 위한 meta 태그 */}
-        <meta charSet="utf-8" />
+        <meta charSet="utf-8" />  
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1"
