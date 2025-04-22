@@ -64,7 +64,7 @@ const Brand2 = () => {
           name="keywords"
           content="구미 로제비앙 메가시티, 신확장로제비앙메가시티, 구미 로제비앙 메가시티모델하우스"
         />
-        <link rel="canonical" href="https://www.abcya4.com/Brand/intro" />
+        <link rel="canonical" href="https://leecols.kr/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -77,11 +77,11 @@ const Brand2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.abcya4.com/Main1.png"
+          content="https://leecols.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.abcya4.com/Brand/intro"
+          content="https://leecols.kr/Brand/intro"
         />
         <meta property="og:site_name" content="구미 로제비앙 메가시티" />
 
@@ -97,11 +97,11 @@ const Brand2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.abcya4.com/Main1.png"
+          content="https://leecols.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.abcya4.com/Brand/intro"
+          content="https://leecols.kr/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -113,7 +113,7 @@ const Brand2 = () => {
 																"name": "구미 로제비앙 메가시티 - 홍보영상",
 																"description": "구미 로제비앙 메가시티의 홍보영상을 통해 단지의 매력적인 디자인과 최신 편의시설을 생생하게 만나보세요. 현대적 감각과 고급스러움을 결합한 주거 환경, 평택의 중심에서 경험할 수 있는 새로운 라이프스타일을 영상으로 확인하세요.
 					",
-																"url": "https://www.abcya4.com/Brand/intro"
+																"url": "https://leecols.kr/Brand/intro"
 															}
 															`}
         </script>

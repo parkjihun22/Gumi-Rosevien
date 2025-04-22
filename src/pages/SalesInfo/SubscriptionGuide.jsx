@@ -70,7 +70,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.abcya4.com/SalesInfo/SubscriptionGuide"
+          href="https://leecols.kr/SalesInfo/SubscriptionGuide"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -84,11 +84,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.abcya4.com/Main1.png"
+          content="https://leecols.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.abcya4.com/SalesInfo/SubscriptionGuide"
+          content="https://leecols.kr/SalesInfo/SubscriptionGuide"
         />
         <meta property="og:site_name" content="구미 로제비앙 메가시티" />
 
@@ -104,16 +104,16 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.abcya4.com/Main1.png"
+          content="https://leecols.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.abcya4.com/SalesInfo/SubscriptionGuide"
+          content="https://leecols.kr/SalesInfo/SubscriptionGuide"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
-          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "구미 로제비앙 메가시티 - 체크포인트",		"description": "구미 로제비앙 메가시티분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.",		"url": "https://www.abcya4.com/SalesInfo/SubscriptionGuide"	}	`}
+          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "구미 로제비앙 메가시티 - 체크포인트",		"description": "구미 로제비앙 메가시티분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.",		"url": "https://leecols.kr/SalesInfo/SubscriptionGuide"	}	`}
         </script>
       </Helmet>
 

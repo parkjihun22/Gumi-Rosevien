@@ -83,7 +83,7 @@ const LocationEnvironment1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.abcya4.com/LocationEnvironment/intro"
+          href="https://leecols.kr/LocationEnvironment/intro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -97,11 +97,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.abcya4.com/Main1.png"
+          content="https://leecols.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.abcya4.com/LocationEnvironment/intro"
+          content="https://leecols.kr/LocationEnvironment/intro"
         />
         <meta property="og:site_name" content="구미 로제비앙 메가시티" />
 
@@ -117,16 +117,16 @@ const LocationEnvironment1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.abcya4.com/Main1.png"
+          content="https://leecols.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.abcya4.com/LocationEnvironment/intro"
+          content="https://leecols.kr/LocationEnvironment/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
-          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "구미 로제비앙 메가시티 - 입지안내",		"description": "구미 로제비앙 메가시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다",		"url": "https://www.abcya4.com/LocationEnvironment/intro"	}	`}
+          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "구미 로제비앙 메가시티 - 입지안내",		"description": "구미 로제비앙 메가시티의 입지 정보를 확인하세요. 뛰어난 교통망, 생활 인프라, 교육 및 쇼핑 시설 등 편리한 주변 환경을 소개하며, 평택의 중심에서 누릴 수 있는 생활의 편리함과 가치를 제공합니다",		"url": "https://leecols.kr/LocationEnvironment/intro"	}	`}
         </script>
       </Helmet>
 
