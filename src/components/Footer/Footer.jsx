@@ -24,8 +24,8 @@ const partnerSites = [
   { name: "군산 경장동 중해마루힐", url: "https://www.cssdesign.kr/" },
   { name: "천안 쌍용 센트럴타워", url: "https://www.daincounseling.co.kr" },
   { name: "평택 브레인시티 수자인", url: "https://www.vaaclubs.com/" },
-  { name: "브레인시티 앤네이처 미래도", url: "  https://www.marvelpartners.co.kr" },
-  { name: "평택화양 신영지웰", url: "  https://delidilly.co.kr/" },
+  { name: "브레인시티 앤네이처 미래도", url: "https://www.marvelpartners.co.kr" },
+  { name: "평택화양 신영지웰", url: "https://delidilly.co.kr/" },
   { name: "평택화양 동문디이스트", url: "https://www.verficktescheisse.com" },
 ];
 
