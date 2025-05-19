@@ -72,7 +72,7 @@ const FloorPlan5 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="구미 로제비앙 메가시티 119A 평면image"
+				alt="신확장 로제비앙 메가시티 119A 평면image"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

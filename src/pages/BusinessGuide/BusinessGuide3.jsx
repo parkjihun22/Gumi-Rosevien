@@ -72,15 +72,15 @@ const BusinessGuide2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>구미 로제비앙 메가시티 - 당첨자 서류안내</title>
+        <title>신확장 로제비앙 메가시티 - 당첨자 서류안내</title>
         <meta
           name="description"
-          content="구미 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
+          content="신확장 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
 			"
         />
         <meta
           name="keywords"
-          content="구미 로제비앙 메가시티, 신확장로제비앙메가시티, 구미 로제비앙 메가시티모델하우스"
+          content="신확장 로제비앙 메가시티, 신확장로제비앙메가시티, 신확장 로제비앙 메가시티모델하우스"
         />
         <link
           rel="canonical"
@@ -90,11 +90,11 @@ const BusinessGuide2 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="구미 로제비앙 메가시티 - 당첨자 서류안내"
+          content="신확장 로제비앙 메가시티 - 당첨자 서류안내"
         />
         <meta
           property="og:description"
-          content="구미 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
+          content="신확장 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다
 			"
         />
         <meta
@@ -105,17 +105,17 @@ const BusinessGuide2 = () => {
           property="og:url"
           content="https://leecols.kr/BusinessGuide/documents"
         />
-        <meta property="og:site_name" content="구미 로제비앙 메가시티" />
+        <meta property="og:site_name" content="신확장 로제비앙 메가시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="구미 로제비앙 메가시티 - 당첨자 서류안내"
+          content="신확장 로제비앙 메가시티 - 당첨자 서류안내"
         />
         <meta
           name="twitter:description"
-          content="구미 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다"
+          content="신확장 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다"
         />
         <meta
           name="twitter:image"
@@ -132,8 +132,8 @@ const BusinessGuide2 = () => {
 													{
 														"@context": "https://schema.org",
 														"@type": "WebPage",
-														"name": "구미 로제비앙 메가시티 - 당첨자 서류안내",
-														"description": "구미 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다",
+														"name": "신확장 로제비앙 메가시티 - 당첨자 서류안내",
+														"description": "신확장 로제비앙 메가시티 청약 당첨자를 위한 필수 서류 목록과 준비 절차를 안내합니다. 간단하고 명확한 정보로 청약 당첨 후 필요한 준비를 돕고, 서류 제출에 문제가 없도록 상세한 가이드를 제공합니다",
 														"url": "https://leecols.kr/BusinessGuide/documents"
 													}
 													`}
@@ -146,7 +146,7 @@ const BusinessGuide2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        구미 로제비앙 메가시티- 계약서류안내
+        신확장 로제비앙 메가시티- 계약서류안내
       </h1>
       <p className={styles.screenReaderOnly}>
         계약서류안내 페이지지에서는 분양 당첨 후 필요한 서류들에 대해
@@ -157,10 +157,10 @@ const BusinessGuide2 = () => {
 
       <div className={styles.textBox}>
         <div>용인의 눈부신 가치 위에</div>
-        <div>구미 로제비앙 메가시티의 새로운 자부심으로 찾아옵니다.</div>
+        <div>신확장 로제비앙 메가시티의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
-			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="구미 로제비앙 메가시티 계약서류안내-image1" />
+			<img className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`} src={page1} alt="신확장 로제비앙 메가시티 계약서류안내-image1" />
 
 
       <Footer />

@@ -66,25 +66,25 @@ const FloorPlan1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>구미 로제비앙 메가시티 - 평면안내 </title>
+        <title>신확장 로제비앙 메가시티 - 평면안내 </title>
         <meta
           name="description"
-          content=" 구미 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다."
+          content=" 신확장 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다."
         />
         <meta
           name="keywords"
-          content="구미 로제비앙 메가시티, 신확장로제비앙메가시티, 구미 로제비앙 메가시티모델하우스"
+          content="신확장 로제비앙 메가시티, 신확장로제비앙메가시티, 신확장 로제비앙 메가시티모델하우스"
         />
         <link rel="canonical" href="https://leecols.kr/FloorPlan/59A" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="구미 로제비앙 메가시티 - 평면안내"
+          content="신확장 로제비앙 메가시티 - 평면안내"
         />
         <meta
           property="og:description"
-          content=" 구미 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다."
+          content=" 신확장 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다."
         />
         <meta
           property="og:image"
@@ -94,17 +94,17 @@ const FloorPlan1 = () => {
           property="og:url"
           content="https://leecols.kr/FloorPlan/59A"
         />
-        <meta property="og:site_name" content="구미 로제비앙 메가시티" />
+        <meta property="og:site_name" content="신확장 로제비앙 메가시티" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="구미 로제비앙 메가시티 -  평면안내"
+          content="신확장 로제비앙 메가시티 -  평면안내"
         />
         <meta
           name="twitter:description"
-          content=" 구미 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다."
+          content=" 신확장 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다."
         />
         <meta
           name="twitter:image"
@@ -117,7 +117,7 @@ const FloorPlan1 = () => {
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
-          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "구미 로제비앙 메가시티 -  평면안내",		"description": " 구미 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다.",		"url": "https://leecols.kr/FloorPlan/59A"	}	`}
+          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "신확장 로제비앙 메가시티 -  평면안내",		"description": " 신확장 로제비앙 메가시티의 평면도를 통해 세대별 구조와 공간 활용도를 확인하세요. 실용적이고 혁신적인 설계를 기반으로 한 다양한 평면 구성이 여러분의 생활을 더 편리하게 만듭니다.",		"url": "https://leecols.kr/FloorPlan/59A"	}	`}
         </script>
       </Helmet>
 
@@ -129,10 +129,10 @@ const FloorPlan1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        구미 로제비앙 메가시티 - 평면안내
+        신확장 로제비앙 메가시티 - 평면안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        59타입의평면 안내 페이지는 구미 로제비앙 메가시티의 각 아파트 평면도를
+        59타입의평면 안내 페이지는 신확장 로제비앙 메가시티의 각 아파트 평면도를
         제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활
         스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를
         확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
@@ -140,14 +140,14 @@ const FloorPlan1 = () => {
 
       <div className={styles.textBox}>
         <div>용인의 눈부신 가치 위에</div>
-        <div>구미 로제비앙 메가시티의 새로운 자부심으로 찾아옵니다.</div>
+        <div>신확장 로제비앙 메가시티의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="구미 로제비앙 메가시티 84A타입의평면안내-image1"
+				alt="신확장 로제비앙 메가시티 84A타입의평면안내-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 
