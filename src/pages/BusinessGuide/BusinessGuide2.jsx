@@ -12,9 +12,9 @@ import page1 from "../../assets/BusinessGuide/BusinessGuide2/page1.jpg";
 
 const BusinessGuide2 = () => {
   const menuContents = [
-    { title: "사업안내", url: "/BusinessGuide/intro" },
-    { title: "분양일정", url: "/BusinessGuide/plan" },
-    { title: "공급안내", url: "/BusinessGuide/documents" },
+		{ title: "사업안내", url: "/BusinessGuide/intro" },
+		{ title: "분양일정", url: "/BusinessGuide/plan" },
+		// { title: "공급안내", url: "/BusinessGuide/documents" }
   ];
   const [isScroll, setIsScroll] = useState(false);
   const [isImageVisible, setIsImageVisible] = useState(false); // isImageVisible 상태 추가
@@ -148,7 +148,7 @@ const BusinessGuide2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>용인의 눈부신 가치 위에</div>
+        <div>구미의 눈부신 가치 위에</div>
         <div>신확장 로제비앙 메가시티의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 

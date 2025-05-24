@@ -92,7 +92,7 @@ const contents = (text, isLoaded) => {
                     편리한 생활을 위한 최적의 공간설계
                 </div>
                 <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-                    소수에게만 허락된 신확장 로제비앙 메가시티, 처음이자 마지막으로 용인에 찾아옵니다
+                    소수에게만 허락된 신확장 로제비앙 메가시티, 처음이자 마지막으로 구미에 찾아옵니다
                 </div>
             </>
         );

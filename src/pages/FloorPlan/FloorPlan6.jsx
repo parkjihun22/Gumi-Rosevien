@@ -63,7 +63,7 @@ const FloorPlan6 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>용인의 눈부신 가치 위에</div>
+				<div>구미의 눈부신 가치 위에</div>
 				<div>푸르지오의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 

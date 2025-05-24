@@ -14,7 +14,7 @@ import { Helmet } from "react-helmet-async";
 
 const projectData = [
 	{ label: '사업명', value: '신확장 로제비앙 메가시티' },
-	{ label: '사업위치', value: '경기 용인시 처인구 남사읍 아곡리 705번지 7BL' },
+	{ label: '사업위치', value: '경기 구미시 처인구 남사읍 아곡리 705번지 7BL' },
 	{ label: '대지면적', value: '106,050.4985㎡' },
 	{ label: '건축면적', value: '13,404.3638㎡' },
 	{ label: '연면적', value: '376,069.7623㎡' },
@@ -27,7 +27,7 @@ const BusinessGuide1 = () => {
 	const menuContents = [
 		{ title: "사업안내", url: "/BusinessGuide/intro" },
 		{ title: "분양일정", url: "/BusinessGuide/plan" },
-		{ title: "공급안내", url: "/BusinessGuide/documents" }
+		// { title: "공급안내", url: "/BusinessGuide/documents" }
 	];
 	const [isScroll, setIsScroll] = useState(false);
 	const { pathname } = useLocation(); // 현재 경로를 가져옴
@@ -147,7 +147,7 @@ const BusinessGuide1 = () => {
 					※ 본 홈페이지에 표기된 내용은 하기의 내용을 근거로 한 내용이며, 추후 계획의 변동 등은 당사와 무관합니다.
 				</div>
 				<div className={styles.notice}>
-					※ 첨단 시스템반도체 국가산업단지 국토교통부 승인(2024.12.26) * 국토교통부 제5차 국가철도망구축계획 경강선 연장(2024.1.22) 반영 * 용인특례시 건설정책과 반도체 고속도로 예비타당성조사 심의 통과(2024.8.23)
+					※ 첨단 시스템반도체 국가산업단지 국토교통부 승인(2024.12.26) * 국토교통부 제5차 국가철도망구축계획 경강선 연장(2024.1.22) 반영 * 구미특례시 건설정책과 반도체 고속도로 예비타당성조사 심의 통과(2024.8.23)
 				</div>
 				
 			</div> 

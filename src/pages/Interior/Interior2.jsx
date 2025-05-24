@@ -139,7 +139,7 @@ const Interior2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>신확장 로제비앙 메가시티, 용인의 눈부신 가치 위에</div>
+        <div>신확장 로제비앙 메가시티, 구미의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
