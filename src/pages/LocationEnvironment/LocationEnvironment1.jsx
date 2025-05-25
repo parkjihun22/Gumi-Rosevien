@@ -21,7 +21,7 @@ import section2Image6 from "../../assets/LocationEnvironment/LocationEnvironment
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 
 const LocationSection = [
-	{ img: section2Image1, titleText: "확정된 개발호재로<br />용인을 더 새롭게 살수록 높아지는 미래가치", contentText: "첨단 시스템반도체 국가산업단지 <br />용인반도체클러스터 일반산업단지 등 <br /> 더 가깝게 만나는 비전과 프리미엄" },
+	{ img: section2Image1, titleText: "확정된 개발호재로<br />구미에 더 새롭게 살수록 높아지는 미래가치", contentText: "첨단 시스템반도체 국가산업단지 <br />구미국가산단, 반도체첨단산업 <br /> 더 가깝게 만나는 비전과 프리미엄" },
 	{ img: section2Image2, titleText: "남다른 혁신설계", contentText: "선호도 높은 중·대형 평면 설계 및 다양하고 넉넉한 수납공간 <br /> 조성 등와이드하고 스마트하게 누리는공간" },
 	{ img: section2Image3, titleText: "수도권 시내·외를 더 빠르게<br />광역으로 통하는 특급 교통", contentText: "세종~포천고속도로, 반도체고속도로(계획) 등<br />1호선, SRT (현재운행중),경강선 연장(계획), 주요간선도로 확장 등<br /> 특급 교통망" },
 	{ img: section2Image4, titleText: "학교를 더 가깝게 한걸음에<br /> 안심학세권 프리미엄", contentText: "단지 바로 앞 처인초,중교 · 처인고교 <br />학원가 조성등 도보거리에 누리는 <br /> 원스톱 안심교육환경" },
